@@ -1,0 +1,15 @@
+C:\Users\alexv\OneDrive\Рабочий стол\Учеба\c#\DZ\bin\Debug\net7.0\DZ.exe
+C:\Users\alexv\OneDrive\Рабочий стол\Учеба\c#\DZ\bin\Debug\net7.0\DZ.deps.json
+C:\Users\alexv\OneDrive\Рабочий стол\Учеба\c#\DZ\bin\Debug\net7.0\DZ.runtimeconfig.json
+C:\Users\alexv\OneDrive\Рабочий стол\Учеба\c#\DZ\bin\Debug\net7.0\DZ.dll
+C:\Users\alexv\OneDrive\Рабочий стол\Учеба\c#\DZ\bin\Debug\net7.0\DZ.pdb
+C:\Users\alexv\OneDrive\Рабочий стол\Учеба\c#\DZ\obj\Debug\net7.0\DZ.csproj.AssemblyReference.cache
+C:\Users\alexv\OneDrive\Рабочий стол\Учеба\c#\DZ\obj\Debug\net7.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexv\OneDrive\Рабочий стол\Учеба\c#\DZ\obj\Debug\net7.0\DZ.AssemblyInfoInputs.cache
+C:\Users\alexv\OneDrive\Рабочий стол\Учеба\c#\DZ\obj\Debug\net7.0\DZ.AssemblyInfo.cs
+C:\Users\alexv\OneDrive\Рабочий стол\Учеба\c#\DZ\obj\Debug\net7.0\DZ.csproj.CoreCompileInputs.cache
+C:\Users\alexv\OneDrive\Рабочий стол\Учеба\c#\DZ\obj\Debug\net7.0\DZ.dll
+C:\Users\alexv\OneDrive\Рабочий стол\Учеба\c#\DZ\obj\Debug\net7.0\refint\DZ.dll
+C:\Users\alexv\OneDrive\Рабочий стол\Учеба\c#\DZ\obj\Debug\net7.0\DZ.pdb
+C:\Users\alexv\OneDrive\Рабочий стол\Учеба\c#\DZ\obj\Debug\net7.0\DZ.genruntimeconfig.cache
+C:\Users\alexv\OneDrive\Рабочий стол\Учеба\c#\DZ\obj\Debug\net7.0\ref\DZ.dll
